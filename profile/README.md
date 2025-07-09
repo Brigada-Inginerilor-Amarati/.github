@@ -1,4 +1,6 @@
 ## Hi there 👋
 
-// add a markdown image here
-![Profile Image](https://avatars.githubusercontent.com/assets/BIA.png)
+![Profile Image](assets/logo-ac.svg)
+
+![Profile Image](assets/logo-upt.png)
+
