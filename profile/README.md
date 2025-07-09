@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Profile Image](assets/logo-ac.svg)
+<img src="assets/logo-ac.svg" alt="Profile Image" width="100%" height="100%">
 
-![Profile Image](assets/logo-upt.png)
-
+<img src="assets/logo-upt.png" alt="Profile Image" width="50%" height="50%">
